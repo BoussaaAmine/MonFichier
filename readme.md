@@ -41,7 +41,7 @@
 <p>Mes commentaires :</p>
 
 <ul> 
-     - Le contenu trés riche, necessite beaucoup de travail en pratique
+     - Le contenu trés riche, nécessite beaucoup de travail en pratique
 
 </ul>
 
