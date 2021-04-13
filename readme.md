@@ -16,13 +16,14 @@
 
 </ul>
 
-#Mon Second Bloc:
+# Mon Second Bloc:
 
 <P> LesActions</P>
 <ul>
     <li>
         <label>
-            <input type="checkbox" checked> 
+            <input type="checkbox"
+checked> 
             Relecture de support de cours, coché
         </label>
     </li>
