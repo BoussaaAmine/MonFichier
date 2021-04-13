@@ -43,6 +43,13 @@
 <ul>
 	<li>Youtube</li>
         <li>Documents</li>
+
+	- [x] Write the press release
+	- [x] Update the website
+	- [x] Contact the media	
+
+
+
 </ul>        
 
 
