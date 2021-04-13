@@ -22,9 +22,8 @@
 <ul>
     <li>
         <label>
-            <input type="checkbox"
-checked> 
-            Relecture de support de cours, coché
+            <input type="checkbox"  checked> 
+            Relecture du support de cours, coché
         </label>
     </li>
     <li>
