@@ -8,12 +8,10 @@
 	    <li>Git</li>
 	    <li>Docker</li>
 	    <li>Jenkins</li>
-	    
-	</ul>    
-    </li>
-</ul>
+ </ul>    
 
 <p> Objectif </p>
 <ul>
-    <li> Integrer le marcher de travail avec des nouvelles compétence</li>
+    <li> Intégrer le marcher de travail avec des nouvelles compétences</li>
+
 </ul>
