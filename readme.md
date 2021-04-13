@@ -1,6 +1,6 @@
 # Mon Premier Bolc: 
 
-<p>Attentes : </p>
+<p>Attentes :</p>
 <ul>
     <li> Connaitre les outils DevOps </li>
     <li> Apprendre la manipulation des outils Devops
@@ -10,22 +10,22 @@
 	    <li>Jenkins</li>
  </ul>    
 
-<p> Objectif </p>
+<p>Objectif :</p>
 <ul>
-    <li> Intégrer le marcher de travail avec des nouvelles compétences</li>
+    <li>Intégrer le marcher de travail avec des nouvelles compétences</li>
 
 </ul>
 
 # Mon Second Bloc:
 
-<P> LesActions</P>
+<P>LesActions :</P>
 <ul>
     
 	- [x] Relecture du support de cours
 	- [x] Prise de notes
 	- [x] Refaire les TPs	
         
-<P> Resources</P>
+<P>Resources :</P>
 
 <ul>
 	<li>Youtube</li>
@@ -38,14 +38,14 @@
 
 ## Commentaires
 
-<p> Mes commentaires </p>
+<p>Mes commentaires :</p>
 
 <ul> 
-     < li> Le contenu trés riche, necessite beaucoup de travail en pratique </li>
+     - Le contenu trés riche, necessite beaucoup de travail en pratique
 
 </ul>
 
-<p> Autres commentaires </p> 
+<p>Autres commentaires :</p> 
 
 
 
