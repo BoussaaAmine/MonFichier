@@ -20,36 +20,33 @@
 
 <P> LesActions</P>
 <ul>
-    <li>
-        <label>
-            <input type="checkbox"  checked> 
-            Relecture du support de cours, coché
-        </label>
-    </li>
-    <li>
-        <label>
-            <input type="checkbox">
-            Prise de notes, coché
-        </label>
-    </li>
-    <li>
-        <label>
-            <input type="checkbox">
-            Refaire les TP, non-coché
-        </label>
-    </li>
-</ul>
+    
+	- [x] Relecture du support de cours
+	- [x] Prise de notes
+	- [x] Refaire les TPs	
+        
 <P> Resources</P>
+
 <ul>
 	<li>Youtube</li>
         <li>Documents</li>
 
-	- [x] Write the press release
-	- [x] Update the website
-	- [x] Contact the media	
+</ul>
 
 
+# Mon Troisième Bloc
 
-</ul>        
+## Commentaires
+
+<p> Mes commentaires </p>
+
+<ul> 
+     < li> Le contenu trés riche, necessite beaucoup de travail en pratique </li>
+
+</ul>
+
+<p> Autres commentaires </p> 
+
+
 
 
